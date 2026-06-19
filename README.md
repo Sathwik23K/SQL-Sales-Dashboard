@@ -60,8 +60,8 @@ DAX
 
 ## Dashboard preview
 ![Executive Summary](dashboard/screenshots/page1_executive.png)
-![Product Analysis](dashboard/screenshots/page2_products.png)
-![Customer Geography](dashboard/screenshots/page3_geography.png)
+![Product Analysis](C:\Users\kgnan\OneDrive\Pictures\Screenshots\Screenshot 2026-03-17 235720.png)
+![Customer Geography](C:\Users\kgnan\OneDrive\Pictures\Screenshots\Screenshot 2026-03-17 235848.png)
 
 ## Tech stack
 SQLite · Python (Pandas) · Power BI Desktop · DAX

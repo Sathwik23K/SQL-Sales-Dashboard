@@ -1,17 +1,48 @@
 # SQL Sales Dashboard
+An end-to-end Business Intelligence project that analyzes retail sales data using SQL and Power BI. The project focuses on transforming raw sales data into actionable business insights by identifying sales trends, customer purchasing behavior, product performance, and profitability.
 
-End-to-end data analysis project on 9,994 Superstore sales records.
-15 SQL queries covering aggregations, CTEs, window functions and
-business KPIs — visualised in a 3-page Power BI dashboard.
+The dashboard enables business stakeholders to monitor key performance indicators (KPIs), identify opportunities for growth, and make informed, data-driven decisions.
+
+## Business Problem
+Retail businesses generate large volumes of transactional data every day. Without proper analysis, it becomes difficult to identify profitable products, loyal customers, regional performance, and factors affecting profitability.
+This project aims to answer key business questions using SQL analysis and interactive Power BI dashboards to support strategic business decisions.
+
+Analyze overall sales performance.
+Identify top-performing products.
+Analyze customer purchasing behavior.
+Measure regional performance.
+Evaluate profitability.
+Build an executive dashboard.
+
+## Dataset
+Superstore Dataset
+Records: 9,994
+Sales
+Profit
+Discount
+Category
+Sub-category
+Region
+Customer
+Order Date
+
+## Tools Used
+SQL
+SQLite
+Python
+Power BI
+DAX
 
 ## Key insights uncovered
-- West region generates highest revenue ($725K) but Central has 
-  the lowest profit margin at 7.92%
-- Orders with over 40% discount generate negative average profit —
-  heavily discounted orders are loss-making
-- Canon imageCLASS Copier is the #1 product at $61K revenue
-- Loyal customers (6+ orders) spend 8x more than one-time buyers
-- California and New York drive the highest regional profits
+✔ Customers with high purchase frequency generated significantly more revenue.
+
+✔ Discounts above 40% often reduced profitability.
+
+✔ Technology products generated the highest revenue.
+
+✔ Sales varied considerably across different states.
+
+✔ Customer segmentation highlighted valuable repeat customers.
 
 ## Dashboard pages
 | Page | Focus |
